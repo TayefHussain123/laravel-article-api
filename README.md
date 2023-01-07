@@ -7,7 +7,7 @@
 2. This SQL file has data.
 3. Change MySQL username and password as per your installation from the .env file.
 
-**User Access**
-email : example@gmail.com
+**User Access** <br/>
+email : example@gmail.com <br/>
 password : password
 
