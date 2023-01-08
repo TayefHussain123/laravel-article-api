@@ -1,4 +1,4 @@
-# **Build Restful CRUD API for a article using Laravel, OAuth authentication.**
+# **Build Restful CRUD API for a article using Laravel Passport, Mysql.**
 
 ## **Steps to Setup**
 
